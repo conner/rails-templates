@@ -1,0 +1,1 @@
+load_template "http://github.com/conner/rails-templates/raw/master/base.rb"
